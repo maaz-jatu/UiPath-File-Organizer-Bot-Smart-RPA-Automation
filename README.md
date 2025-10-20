@@ -34,3 +34,12 @@ It helps users keep their downloads or documents neat and well-arranged — just
 ---
 
 ### 📄 Project Structure
+Main.xaml → Main workflow  
+Config.xaml → Extension-to-folder mapping  
+Move file to new sub folder.xaml → Creates new folders  
+Move file to chosen existing sub folder.xaml → Moves files to existing folders  
+Move file to Miscellaneous.xaml → Handles unknown file types  
+Organize files.xaml → File sorting logic  
+project.json → Project settings  
+
+---
